@@ -1,3 +1,8 @@
+# PESSO DESCULPA POR QUE NÃO FIZ O TRABALHO QUE ME FOI EXIGIDO EU ATE ENTENDI TODAS AS AULAS DESSE CURSO POREM 
+# NÃO CONSIGO FAZER OS EXERCICIO QUE O CURSO PEDE POIS PRECISA DE UMA CARTÃO DE CREDITO PARA FAZER O CADASTRO 
+# NA PLATAFORMA E EU NÃO TENHO UM CARTÃO PARA FAZER O CADASTRO
+
+
 # 📊 Previsão de Estoque Inteligente na AWS com [SageMaker Canvas](https://aws.amazon.com/pt/sagemaker/canvas/)
 
 Bem-vindo ao desafio de projeto "Previsão de Estoque Inteligente na AWS com SageMaker Canvas. Neste Lab DIO, você aprenderá a usar o SageMaker Canvas para criar previsões de estoque baseadas em Machine Learning (ML). Siga os passos abaixo para completar o desafio!
